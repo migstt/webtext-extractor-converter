@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=UrlConnection
+comment1.params=url
+comment1.target=java.lang.String\ displayData(java.lang.String)
+comment2.params=
+comment2.target=void\ clearTextFile()
+comment3.params=text
+comment3.target=void\ convertToCSV(java.lang.String)
+comment4.params=text
+comment4.target=void\ convertToXML(java.lang.String)
+numComments=5
